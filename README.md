@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on:<br>Building high-performance mobile apps & custom cross-platform software<br>👯 I'm looking to collaborate on:<br>Open-source CLI tools, mobile utilities, and desktop applications<br>🤝 I'm looking for help with:<br>Advanced low-level system optimizations & cross-platform execution<br>🌱 I'm currently learning:<br>Advanced system architecture & cross-platform native builds<br>💬 Ask me about:<br>Mobile app architecture, terminal setups, or custom tooling<br>⚡ Fun fact:<br>I can turn caffeine and shell scripts into fully functional apps overnight
+🔭 I'm currently working on:<br>Building high-impact websites, mobile-first utility applications, and custom personal software projects<br>👯 I'm looking to collaborate on:<br>Anything. Full-stack sites, custom apps, CLI tools, or experimental builds<br>🤝 I'm looking for help with:<br>Nothing right now—handling every layer end-to-end<br>🌱 I'm currently learning:<br>Advanced system architecture, cross-platform performance, and full-stack integration<br>⚡ Fun fact:<br>I turn complex ideas into fully functional websites and applications overnight
 
 
 # 💻 Tech Stack:
